@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-08T14:04:23.669Z'
+datePublished: '2016-01-08T14:04:26.375Z'
 dateModified: '2016-01-08T14:04:16.842Z'
 title: 'Varese & Aix-en-Provence'
 author: []
